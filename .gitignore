@@ -1,0 +1,7 @@
+# node module && dist
+node_modules/
+dist/
+
+# strapi
+.strapi-updater.json
+.strapi/

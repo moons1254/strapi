@@ -1,0 +1,14 @@
+# node module && dist
+node_modules/
+dist/
+
+# strapi
+.strapi/
+.strapi-updater.json
+
+# docker
+Dockerfile
+
+# git
+.git/
+.gitignore
